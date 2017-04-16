@@ -3,15 +3,15 @@ title: Forty
 subtitle: by HTML5 UP
 email: fatima.sanchez.garcia@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "fatimasanchez.ca" # the base hostname & protocol for your site
 author:Fatima Sanchez
 street_address: 
 city: Ottawa  
 state: ON 
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 
+country: Canada
+phone: (613) 407-0452
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -23,11 +23,11 @@ facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url: https://instagram.com
+instagram_url: 
 linkedin_url: https://www.linkedin.com/in/fatimasanchezgarcia/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/
+twitter_url: 
 
 # Build settings
 markdown: kramdown
